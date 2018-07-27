@@ -1,0 +1,9 @@
+[submodule "alexapoc-healthcanada-recalls"]
+	path = alexapoc-healthcanada-recalls
+	url = https://github.com/canada-ca/alexapoc-healthcanada-recalls.git
+[submodule "alexapoc-vrdb"]
+	path = alexapoc-vrdb
+	url = https://github.com/canada-ca/alexapoc-vrdb.git
+[submodule "alexapoc-ccbpaymentdates"]
+	path = alexapoc-ccbpaymentdates
+	url = https://github.com/canada-ca/alexapoc-ccbpaymentdates.git
